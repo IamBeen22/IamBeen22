@@ -39,11 +39,6 @@
 	<div><div style="font-size:30px;">📝Contact 📝</div>
 		<br>
 		<table>
-			<tr id="call-number" align="center">
-			    <td>📞</td>
-			    <th>&nbsp;&nbsp;|</th>
-			    <th>&nbsp;&nbsp;&nbsp;010-8647-0625&nbsp;&nbsp;&nbsp;</th>
-			</tr>
 			<tr id="discord-tag" align="center">
 			    <td><img src="https://cdn.simpleicons.org/discord/white" /></td>
 			    <th>&nbsp;&nbsp;|</th>
